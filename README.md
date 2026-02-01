@@ -3,10 +3,14 @@
 ## Demo Videos
 
 ### ACT Fine-tuned on 50 Demonstrations
-![ACT Fine-tuned on 50 Demos](./videos/act_finetuned_on_50_demos.gif)
+
+<video src="https://github.com/anjalidhabaria/physical_ai_hack_eta_0.1/raw/main/videos/act_finetuned_on_50_demos.MOV" controls="controls" style="max-width: 100%;">
+</video>
 
 ### ACT with Perturbation
-![ACT with Perturbation](./videos/act_with_perturbation.gif)
+
+<video src="https://github.com/anjalidhabaria/physical_ai_hack_eta_0.1/raw/main/videos/act_with_perturbation.MOV" controls="controls" style="max-width: 100%;">
+</video>
 
 ---
 
