@@ -3,10 +3,10 @@
 ## Demo Videos
 
 ### ACT Fine-tuned on 50 Demonstrations
-[![ACT Fine-tuned on 50 Demos](./videos/act_finetuned_on_50_demos_thumb.jpg)](./videos/act_finetuned_on_50_demos.MOV)
+![ACT Fine-tuned on 50 Demos](./videos/act_finetuned_on_50_demos.gif)
 
 ### ACT with Perturbation
-[![ACT with Perturbation](./videos/act_with_perturbation_thumb.jpg)](./videos/act_with_perturbation.MOV)
+![ACT with Perturbation](./videos/act_with_perturbation.gif)
 
 ---
 
