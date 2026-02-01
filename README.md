@@ -169,6 +169,12 @@ Cameras: 3 synchronized views @ 480x640, 15 FPS
 
 ## Open Source Resources
 
+### Our Code
+| Repository | Description |
+|------------|-------------|
+| [anjalidhabaria/lerobot](https://github.com/anjalidhabaria/lerobot) | Architectural innovations on ACT, Diffusion, and VLA models |
+| [wolfiedoofie/liquid-residual](https://github.com/wolfiedoofie/liquid-residual) | Residual policy RL for liquid pouring |
+
 ### Experiment Tracking
 | Resource | Link |
 |----------|------|
