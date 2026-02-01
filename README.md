@@ -14,6 +14,9 @@
 ### Generalization with Perturbation Training
 ![ACT with Perturbation](./videos/act_with_perturbation.gif)
 
+### 9 Continuous Demos
+![9 Continuous Demos](./videos/9_continuous_demos.gif)
+
 ---
 
 ## Results & Performance
